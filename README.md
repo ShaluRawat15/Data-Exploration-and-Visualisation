@@ -1,1 +1,4 @@
 # Data-Exploration-and-Visualisation
+## Netflix - Data Exploration and Visualisation using Python libraries
+### DatasetLink: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/000/940/original/netflix.csv
+This project explores Netflix's dataset, analyzing over 10,000 movies and TV shows to uncover insights that could help guide content production and business growth strategies in different countries. The analysis covers data structure, non-graphical and visual exploration of attributes, correlation, and trend analysis, as well as identifying patterns and outliers. Key insights include genre popularity, regional preferences, and viewer behavior. Based on these insights, actionable recommendations are provided for enhancing Netflix's content library and improving user engagement globally.
